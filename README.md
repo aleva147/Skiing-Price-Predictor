@@ -41,6 +41,6 @@ The following images illustrate the described issues caused by unbalanced data a
 ![Linear_regression_plot_graph](https://github.com/user-attachments/assets/1c7a598c-77bf-4d06-a7f4-1aa1db63e88a)
 ![KNN confusion matrix](https://github.com/user-attachments/assets/61b05098-af42-464d-8a25-672e2eca5432)
 
-The GUI generated that is generated for users, after training and testing models, can be seen on the image below.
+The GUI that is generated for users, after training and testing models, can be seen on the image below.
 
 ![GUI](https://github.com/user-attachments/assets/e16184a2-5f18-43f7-8d69-c586ee9bb272)
