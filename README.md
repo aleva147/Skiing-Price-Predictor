@@ -5,11 +5,11 @@ This project collects skiing offers from a travel agency website using [Scrapy f
 Below is a list of short explanations about the key directories and files in this project:
 + [scraper](https://github.com/aleva147/Skiing-Price-Predictor/blob/main/scraper/scraper/spiders/skifunspider.py) — an executable spider program that scrapes offers using a list of predefined URLs with set query parameter values for dates and number of people.
 + [scraped_data](https://github.com/aleva147/Skiing-Price-Predictor/tree/main/scraped_data) — contains the original individual json files, as well as one merged json file of all non-duplicate offers.
-+ [data](https://github.com/aleva147/Skiing-Price-Predictor/tree/main/data) — contains original, filtered and encoded csv files that models use.
++ [data](https://github.com/aleva147/Skiing-Price-Predictor/tree/main/data) — contains original, filtered and encoded CSV files that models use.
 + [sql_queries](https://github.com/aleva147/Skiing-Price-Predictor/tree/main/sql_queries) — contains various statistics about the collected data.
-+ [task_1_2_3_prepare_data](https://github.com/aleva147/Skiing-Price-Predictor/tree/main/sql_queries) — contains
-+ [task_4_linear_regression](https://github.com/aleva147/Skiing-Price-Predictor/tree/main/sql_queries) — contains
-+ [task_5_knn](https://github.com/aleva147/Skiing-Price-Predictor/tree/main/sql_queries) — contains
++ [task_1_2_3_prepare_data](https://github.com/aleva147/Skiing-Price-Predictor/tree/main/sql_queries) — contains code for data preprocessing and creation of databases and CSV files (there is no need to execute this program again). 
++ [task_4_linear_regression](https://github.com/aleva147/Skiing-Price-Predictor/tree/main/sql_queries) — a price prediction app based on a linear regression model.
++ [task_5_knn](https://github.com/aleva147/Skiing-Price-Predictor/tree/main/sql_queries) — a price range prediction app based on a KNN model.
 
 # How to Execute
 - **Windows:**
