@@ -1,0 +1,9 @@
+mysql-connector-python
+tkinter
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+scrapy
+scrapy-playwright

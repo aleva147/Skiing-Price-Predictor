@@ -1,0 +1,119 @@
+=========================================================================
+A) 10 najzastupljenijih mesta koja imaju najveći broj aranžmana u ponudi.
+=========================================================================
+'Val Thorens', '829'
+'Kronplatz Plan de Corones', '800'
+'Val di Sole - Marilleva', '595'
+'La Plagne', '562'
+'Valmeinier', '491'
+'Les 2 Alpes', '471'
+'La Toussuire', '467'
+'Alta Badia', '426'
+'Passo San Pellegrino', '426'
+'Serre Chevalier', '364'
+
+
+=============================
+B) Broj aranžmana po mestima.
+=============================
+'Val Thorens', '829'
+'Kronplatz Plan de Corones', '800'
+'Val di Sole - Marilleva', '595'
+'La Plagne', '562'
+'Valmeinier', '491'
+'Les 2 Alpes', '471'
+'La Toussuire', '467'
+'Alta Badia', '426'
+'Passo San Pellegrino', '426'
+'Serre Chevalier', '364'
+'Val Cenis', '353'
+'Tignes', '332'
+'Livigno', '312'
+'Les Arcs', '307'
+'Civetta', '303'
+'Les Menuires', '245'
+'Vars', '225'
+'Chatel', '220'
+'Chamonix', '196'
+'San Martino Di Castrozza', '185'
+'Val d\'Isere', '185'
+'Le Corbier', '178'
+'Les Gets', '175'
+'Saint Francois Longchamp', '162'
+'Cervinia', '145'
+'Passo Tonale', '134'
+'Folgaria', '130'
+'Samoens', '126'
+'Les Orres', '119'
+'Canazei - Val di Fassa', '115'
+'Val di Fiemme', '111'
+'Arabba', '111'
+'Madonna Di Campiglio', '107'
+'St. Jean d\'Arves', '98'
+'Saint Gervais - Megeve', '95'
+'La Rosiere', '86'
+'Les Contamines', '83'
+'Meribel Mottaret', '82'
+'St. Sorlin d\'Arves', '82'
+'Vaujany', '81'
+'Flaine', '76'
+'Oz En Oisans', '72'
+'La Clusaz', '65'
+'Orcieres', '65'
+'Val Gardena', '64'
+'Pra Loup', '60'
+'Bormio', '56'
+'Sestriere', '50'
+'Pinzolo SkiArea Campiglio', '48'
+'Megeve', '47'
+'Moena', '45'
+'Avoriaz', '45'
+'Alpe d\'Huez', '44'
+'Val Senales-Schnalstal', '43'
+'Drei Zinnen Dolomiti', '40'
+'Morillon', '36'
+'La Thuile', '33'
+'Cortina D\' Ampezzo', '31'
+'Pozza di Fassa', '29'
+'Meribel', '23'
+'Auris En Oisans', '21'
+'Valfrejus', '20'
+'Alagna Monterosa', '20'
+'Montgenevre', '17'
+'Isola 2000', '16'
+'Malga Ciapela - Marmolada', '14'
+'Superdevoluy', '8'
+'Les Houches-Chamonix', '6'
+'Courchevel', '2'
+
+
+===================================================================================
+C) Broj (i procentualni odnos) aranžmana po hotelima sa različitim brojem zvezdica.
+===================================================================================
+'2', '326', '2.8%'
+'3', '6856', '59.1%'
+'4', '4134', '35.6%'
+'5', '294', '2.5%'
+
+
+===============================================================================
+D) Broj (i procentualni odnos) svih aranžmana, koje po ceni pripadaju jednom od
+sledećih opsega:
+▪ manje ili jednako od 500 eura,
+▪ između 501 i 1500 eura,
+▪ između 1501 i 3000 eura,
+▪ 3000 eura ili više.
+===============================================================================
+'500', '291', '2.5%'
+'501-1500', '5253', '45.2%'
+'1501-3000', '4013', '34.6%'
+'3000 or more', '2053', '17.7%'
+
+
+==================================================================
+E) Broj (i procentualni odnos) aranžmana po tipu usluge koji nude.
+==================================================================
+'all inclusive', '83', '0.7%'
+'najam', '10439', '89.9%'
+'nocenje s doruckom', '243', '2.1%'
+'polupansion', '845', '7.3%'

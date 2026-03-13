@@ -1,0 +1,80 @@
+[
+{
+    "country": "Francuska",
+    "place": "Val d'Isere",
+    "hotel": "Hotel Altitude",
+    "stars": 3,
+    "month": "Dec",
+    "date": "04.12.2025",
+    "num_of_nights": 11,
+    "num_of_guests": 4,
+    "service_type": "polupansion",
+    "room_size": "35 m2",
+    "price": "6532€"
+},
+{
+    "country": "Francuska",
+    "place": "Val d'Isere",
+    "hotel": "Hotel Altitude",
+    "stars": 3,
+    "month": "Dec",
+    "date": "13.12.2025",
+    "num_of_nights": 8,
+    "num_of_guests": 4,
+    "service_type": "polupansion",
+    "room_size": "35 m2",
+    "price": "4508€"
+},
+{
+    "country": "Francuska",
+    "place": "La Plagne",
+    "hotel": "Hotel Les Balcons Village",
+    "stars": 3,
+    "month": "Dec",
+    "date": "23.12.2025",
+    "num_of_nights": 8,
+    "num_of_guests": 2,
+    "service_type": "polupansion",
+    "room_size": "21 m2",
+    "price": "2254€"
+},
+{
+    "country": "Francuska",
+    "place": "La Plagne",
+    "hotel": "Hotel Les Balcons Village",
+    "stars": 3,
+    "month": "Dec",
+    "date": "23.12.2025",
+    "num_of_nights": 8,
+    "num_of_guests": 2,
+    "service_type": "polupansion",
+    "room_size": "21 m2",
+    "price": "2254€"
+},
+{
+    "country": "Francuska",
+    "place": "La Plagne",
+    "hotel": "Hotel Les Balcons Village",
+    "stars": 3,
+    "month": "Dec",
+    "date": "25.12.2025",
+    "num_of_nights": 8,
+    "num_of_guests": 2,
+    "service_type": "polupansion",
+    "room_size": "21 m2",
+    "price": "2436€"
+},
+{
+    "country": "Francuska",
+    "place": "La Plagne",
+    "hotel": "Hotel Les Balcons Village",
+    "stars": 3,
+    "month": "Dec",
+    "date": "25.12.2025",
+    "num_of_nights": 8,
+    "num_of_guests": 2,
+    "service_type": "polupansion",
+    "room_size": "21 m2",
+    "price": "2436€"
+}
+]

@@ -1,0 +1,41 @@
+[
+{
+    "country": "Francuska",
+    "place": "Serre Chevalier",
+    "hotel": "Sowell Hotels Le Parc et Spa",
+    "stars": 4,
+    "month": "Apr",
+    "date": "04.04.2026",
+    "num_of_nights": 8,
+    "num_of_guests": 2,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "1747€"
+},
+{
+    "country": "Francuska",
+    "place": "Serre Chevalier",
+    "hotel": "Sowell Hotels Le Parc et Spa",
+    "stars": 4,
+    "month": "Apr",
+    "date": "04.04.2026",
+    "num_of_nights": 8,
+    "num_of_guests": 2,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "1747€"
+},
+{
+    "country": "Francuska",
+    "place": "Serre Chevalier",
+    "hotel": "Sowell Hotels Le Parc et Spa",
+    "stars": 4,
+    "month": "Apr",
+    "date": "04.04.2026",
+    "num_of_nights": 8,
+    "num_of_guests": 3,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "2382€"
+}
+]

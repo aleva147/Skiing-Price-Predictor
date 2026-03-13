@@ -1,0 +1,80 @@
+[
+{
+    "country": "Francuska",
+    "place": "La Plagne",
+    "hotel": "Hotel Les Balcons Village",
+    "stars": 3,
+    "month": "Apr",
+    "date": "04.04.2026",
+    "num_of_nights": 8,
+    "num_of_guests": 2,
+    "service_type": "polupansion",
+    "room_size": "21 m2",
+    "price": "1946€"
+},
+{
+    "country": "Francuska",
+    "place": "La Plagne",
+    "hotel": "Hotel Les Balcons Village",
+    "stars": 3,
+    "month": "Apr",
+    "date": "04.04.2026",
+    "num_of_nights": 8,
+    "num_of_guests": 2,
+    "service_type": "polupansion",
+    "room_size": "21 m2",
+    "price": "1946€"
+},
+{
+    "country": "Francuska",
+    "place": "La Plagne",
+    "hotel": "Hotel Les Balcons Village",
+    "stars": 3,
+    "month": "Apr",
+    "date": "01.04.2026",
+    "num_of_nights": 15,
+    "num_of_guests": 2,
+    "service_type": "polupansion",
+    "room_size": "21 m2",
+    "price": "3570€"
+},
+{
+    "country": "Francuska",
+    "place": "La Plagne",
+    "hotel": "Hotel Les Balcons Village",
+    "stars": 3,
+    "month": "Apr",
+    "date": "01.04.2026",
+    "num_of_nights": 15,
+    "num_of_guests": 2,
+    "service_type": "polupansion",
+    "room_size": "21 m2",
+    "price": "3570€"
+},
+{
+    "country": "Francuska",
+    "place": "La Plagne",
+    "hotel": "Hotel Les Balcons Village",
+    "stars": 3,
+    "month": "Apr",
+    "date": "11.04.2026",
+    "num_of_nights": 8,
+    "num_of_guests": 2,
+    "service_type": "polupansion",
+    "room_size": "21 m2",
+    "price": "1624€"
+},
+{
+    "country": "Francuska",
+    "place": "La Plagne",
+    "hotel": "Hotel Les Balcons Village",
+    "stars": 3,
+    "month": "Apr",
+    "date": "11.04.2026",
+    "num_of_nights": 8,
+    "num_of_guests": 2,
+    "service_type": "polupansion",
+    "room_size": "21 m2",
+    "price": "1624€"
+}
+]

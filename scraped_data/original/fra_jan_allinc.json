@@ -1,0 +1,54 @@
+[
+{
+    "country": "Francuska",
+    "place": "Flaine",
+    "hotel": "Hotel Club mmv Flaine",
+    "stars": 4,
+    "month": "Jan",
+    "date": "04.01.2026",
+    "num_of_nights": 8,
+    "num_of_guests": 2,
+    "service_type": "all inclusive",
+    "room_size": "18 m2",
+    "price": "1672€"
+},
+{
+    "country": "Francuska",
+    "place": "Flaine",
+    "hotel": "Hotel Club mmv Flaine",
+    "stars": 4,
+    "month": "Jan",
+    "date": "04.01.2026",
+    "num_of_nights": 8,
+    "num_of_guests": 4,
+    "service_type": "all inclusive",
+    "room_size": "22 m2",
+    "price": "2508€"
+},
+{
+    "country": "Francuska",
+    "place": "Tignes",
+    "hotel": "Hotel Club mmv Les Brevieres",
+    "stars": 4,
+    "month": "Jan",
+    "date": "04.01.2026",
+    "num_of_nights": 8,
+    "num_of_guests": 3,
+    "service_type": "all inclusive",
+    "room_size": "14 m2",
+    "price": "2041€"
+},
+{
+    "country": "Francuska",
+    "place": "Tignes",
+    "hotel": "Hotel Club mmv Les Brevieres",
+    "stars": 4,
+    "month": "Jan",
+    "date": "24.01.2026",
+    "num_of_nights": 14,
+    "num_of_guests": 2,
+    "service_type": "all inclusive",
+    "room_size": "12 m2",
+    "price": "3982€"
+}
+]

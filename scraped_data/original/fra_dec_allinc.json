@@ -1,0 +1,80 @@
+[
+{
+    "country": "Francuska",
+    "place": "Serre Chevalier",
+    "hotel": "Sowell Hotels Le Parc et Spa",
+    "stars": 4,
+    "month": "Dec",
+    "date": "13.12.2025",
+    "num_of_nights": 8,
+    "num_of_guests": 2,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "1582€"
+},
+{
+    "country": "Francuska",
+    "place": "Serre Chevalier",
+    "hotel": "Sowell Hotels Le Parc et Spa",
+    "stars": 4,
+    "month": "Dec",
+    "date": "13.12.2025",
+    "num_of_nights": 8,
+    "num_of_guests": 2,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "1582€"
+},
+{
+    "country": "Francuska",
+    "place": "Serre Chevalier",
+    "hotel": "Sowell Hotels Le Parc et Spa",
+    "stars": 4,
+    "month": "Dec",
+    "date": "13.12.2025",
+    "num_of_nights": 8,
+    "num_of_guests": 3,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "2120€"
+},
+{
+    "country": "Francuska",
+    "place": "Serre Chevalier",
+    "hotel": "Sowell Hotels Le Parc et Spa",
+    "stars": 4,
+    "month": "Dec",
+    "date": "25.12.2025",
+    "num_of_nights": 11,
+    "num_of_guests": 2,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "4899€"
+},
+{
+    "country": "Francuska",
+    "place": "Serre Chevalier",
+    "hotel": "Sowell Hotels Le Parc et Spa",
+    "stars": 4,
+    "month": "Dec",
+    "date": "25.12.2025",
+    "num_of_nights": 11,
+    "num_of_guests": 2,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "4899€"
+},
+{
+    "country": "Francuska",
+    "place": "Serre Chevalier",
+    "hotel": "Sowell Hotels Le Parc et Spa",
+    "stars": 4,
+    "month": "Dec",
+    "date": "25.12.2025",
+    "num_of_nights": 11,
+    "num_of_guests": 3,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "6480€"
+}
+]

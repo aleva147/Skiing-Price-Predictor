@@ -1,0 +1,93 @@
+[
+{
+    "country": "Italija",
+    "place": "Val di Sole - Marilleva",
+    "hotel": "TH Hotel Marilleva",
+    "stars": 4,
+    "month": "Mar",
+    "date": "04.03.2026",
+    "num_of_nights": 8,
+    "num_of_guests": 4,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "1487€"
+},
+{
+    "country": "Italija",
+    "place": "Val di Sole - Marilleva",
+    "hotel": "TH Hotel Marilleva",
+    "stars": 4,
+    "month": "Mar",
+    "date": "08.03.2026",
+    "num_of_nights": 8,
+    "num_of_guests": 4,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "1298€"
+},
+{
+    "country": "Italija",
+    "place": "Val di Sole - Marilleva",
+    "hotel": "TH Hotel Marilleva",
+    "stars": 4,
+    "month": "Mar",
+    "date": "08.03.2026",
+    "num_of_nights": 22,
+    "num_of_guests": 4,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "3289€"
+},
+{
+    "country": "Italija",
+    "place": "Val di Sole - Marilleva",
+    "hotel": "TH Hotel Marilleva",
+    "stars": 4,
+    "month": "Mar",
+    "date": "16.03.2026",
+    "num_of_nights": 8,
+    "num_of_guests": 4,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "995€"
+},
+{
+    "country": "Italija",
+    "place": "Val di Sole - Marilleva",
+    "hotel": "TH Hotel Marilleva",
+    "stars": 4,
+    "month": "Mar",
+    "date": "16.03.2026",
+    "num_of_nights": 15,
+    "num_of_guests": 4,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "1991€"
+},
+{
+    "country": "Italija",
+    "place": "Val di Sole - Marilleva",
+    "hotel": "TH Hotel Marilleva",
+    "stars": 4,
+    "month": "Mar",
+    "date": "23.03.2026",
+    "num_of_nights": 8,
+    "num_of_guests": 4,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "995€"
+},
+{
+    "country": "Italija",
+    "place": "Val di Sole - Marilleva",
+    "hotel": "TH Hotel Marilleva",
+    "stars": 4,
+    "month": "Mar",
+    "date": "28.03.2026",
+    "num_of_nights": 8,
+    "num_of_guests": 4,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "995€"
+}
+]

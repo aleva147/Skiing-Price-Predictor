@@ -1,0 +1,67 @@
+[
+{
+    "country": "Italija",
+    "place": "Val di Sole - Marilleva",
+    "hotel": "TH Hotel Marilleva",
+    "stars": 4,
+    "month": "Jan",
+    "date": "01.01.2026",
+    "num_of_nights": 5,
+    "num_of_guests": 4,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "1181€"
+},
+{
+    "country": "Italija",
+    "place": "Val di Sole - Marilleva",
+    "hotel": "TH Hotel Marilleva",
+    "stars": 4,
+    "month": "Jan",
+    "date": "04.01.2026",
+    "num_of_nights": 8,
+    "num_of_guests": 4,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "1301€"
+},
+{
+    "country": "Italija",
+    "place": "Val di Sole - Marilleva",
+    "hotel": "TH Hotel Marilleva",
+    "stars": 4,
+    "month": "Jan",
+    "date": "17.01.2026",
+    "num_of_nights": 15,
+    "num_of_guests": 4,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "2596€"
+},
+{
+    "country": "Italija",
+    "place": "Val di Sole - Marilleva",
+    "hotel": "TH Hotel Marilleva",
+    "stars": 4,
+    "month": "Jan",
+    "date": "29.01.2026",
+    "num_of_nights": 8,
+    "num_of_guests": 4,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "1487€"
+},
+{
+    "country": "Italija",
+    "place": "Val di Sole - Marilleva",
+    "hotel": "TH Hotel Marilleva",
+    "stars": 4,
+    "month": "Jan",
+    "date": "24.01.2026",
+    "num_of_nights": 15,
+    "num_of_guests": 4,
+    "service_type": "all inclusive",
+    "room_size": "19 m2",
+    "price": "2785€"
+}
+]
